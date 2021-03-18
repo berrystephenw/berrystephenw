@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @berrystephenw Call me Steve
+- 👋 Hi, I’m @berrystephenw Call me Steve. BSEE, MBA.
 - 👀 I’m interested in 3D printing, Octoprint plugin coding, designing printed circuits and Sig Sauer.
 - 🌱 I’m currently learning Octoprints plugin development and audio filtering circuits.
 - 💞️ I’m looking to collaborate on the development of my plugin and the companion board for OctoSafe - a way of getting notified when a smoke alarm is triggered near your printer.
